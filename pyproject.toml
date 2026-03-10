@@ -1,9 +1,9 @@
 [project]
 name = "premium_receivables"
 authors = [
-    { name = "fortune", email = "fortunemakunya@gmail.com"}
+    { name = "Fortune", email = "Fortunemakuya88@gmail.com"}
 ]
-description = "accout"
+description = "Accounts receivable reports"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

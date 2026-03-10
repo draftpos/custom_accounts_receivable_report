@@ -1,8 +1,8 @@
 app_name = "premium_receivables"
 app_title = "Premium Receivables"
-app_publisher = "fortune"
-app_description = "accout"
-app_email = "fortunemakunya@gmail.com"
+app_publisher = "Fortune"
+app_description = "Accounts receivable reports"
+app_email = "Fortunemakuya88@gmail.com"
 app_license = "mit"
 
 # Apps
