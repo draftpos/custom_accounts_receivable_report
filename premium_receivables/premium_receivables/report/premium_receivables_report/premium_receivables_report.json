@@ -1,0 +1,18 @@
+{
+ "add_total_row": 1,
+ "columns": [],
+ "disabled": 0,
+ "doctype": "Report",
+ "filters": [],
+ "is_standard": "Yes",
+ "module": "Premium Receivables",
+ "name": "Premium Receivables Report",
+ "ref_doctype": "Sales Invoice",
+ "report_name": "Premium Receivables Report",
+ "report_type": "Script Report",
+ "roles": [
+  {"role": "Accounts User"},
+  {"role": "Accounts Manager"},
+  {"role": "System Manager"}
+ ]
+}
